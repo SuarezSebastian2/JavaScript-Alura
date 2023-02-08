@@ -22,6 +22,7 @@ console.log(`En la lista de ciudades tenemos ${ciudadesDisponibles.length} eleme
 //Filtro de elementos de la lista.
 const paisesFiltrados = paisesDisponibles.filter((e) => e.length > 6);
 console.log(paisesFiltrados);
+console.log(cantidadCiudades.toPrecision.call.length)
 
 //Unificar los elementos en una cadena de caracteres
 console.log(paisesDisponibles.join('-'));
