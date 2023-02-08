@@ -28,3 +28,4 @@ const createTask = (evento) => {
 
 //Arrow functions o funciones anonimas
 btn.addEventListener('click', createTask);
+//Hola
